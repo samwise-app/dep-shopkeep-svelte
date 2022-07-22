@@ -1,8 +1,10 @@
 {
-  "name": "shopkeep-svelte",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@samwise/shopkeep-svelte",
+  "private": false,
+  "version": "0.1.0",
   "type": "module",
+  "description": "The Samwise Design Library for Svelte components",
+  "license": "GNU-3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,11 +16,11 @@
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@storybook/addon-actions": "^6.5.9",
-    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-essentials": "^6.4.22",
     "@storybook/addon-interactions": "^6.5.9",
     "@storybook/addon-links": "^6.5.9",
-    "@storybook/builder-vite": "^0.2.0",
-    "@storybook/svelte": "^6.5.9",
+    "@storybook/builder-vite": "^0.1.37",
+    "@storybook/svelte": "^6.1.21",
     "@storybook/testing-library": "^0.0.13",
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
     "@tsconfig/svelte": "^3.0.0",
