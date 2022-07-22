@@ -1,5 +1,5 @@
 {
-  "name": "@samwise/shopkeep-svelte",
+  "name": "@samwise-app/shopkeep-svelte",
   "private": false,
   "version": "0.1.0",
   "type": "module",
