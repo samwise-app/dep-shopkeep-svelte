@@ -1,7 +1,9 @@
 {
   "jsxSingleQuote": true,
-  "trailingComma": "es5",
-  "singleQuote": true,
   "printWidth": 120,
-  "semi": true
+  "singleQuote": true,
+  "semi": true,
+  "svelteAllowShorthand": true,
+  "svelteIndentScriptAndStyle": true,
+  "trailingComma": "es5"
 }
